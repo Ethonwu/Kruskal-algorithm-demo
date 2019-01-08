@@ -4,4 +4,4 @@
 
 ### How to use 
 
-![image]()
+![image](https://github.com/Ethonwu/Kruskal-algorithm-demo/blob/master/pic/algorithm.gif)
