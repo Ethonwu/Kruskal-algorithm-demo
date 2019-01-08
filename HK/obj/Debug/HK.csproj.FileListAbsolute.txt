@@ -1,0 +1,10 @@
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\bin\Debug\HK.exe.config
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\bin\Debug\HK.exe
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\bin\Debug\HK.pdb
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\obj\Debug\HK.csprojResolveAssemblyReference.cache
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\obj\Debug\HK.Form1.resources
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\obj\Debug\HK.Properties.Resources.resources
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\obj\Debug\HK.csproj.GenerateResource.Cache
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\obj\Debug\HK.exe
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\obj\Debug\HK.pdb
+C:\Users\Ethon\Desktop\Alogorthm\HK\HK\obj\Debug\HK.InputBox.resources
